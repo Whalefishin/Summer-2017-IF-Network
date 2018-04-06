@@ -1,0 +1,9 @@
+N_E: 4000
+N_I: 1000
+K: 100.0
+External Drive: 1.5
+dt: 0.01
+T: 200
+Bin size: 20
+Phi: 0.3
+Lambda: 0.03
